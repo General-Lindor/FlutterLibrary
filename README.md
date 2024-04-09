@@ -35,6 +35,8 @@ Can only hold Text content since it needs to measure the size before building (w
 Header-Rows and Header-Columns are unselectable.
 Like a true programmer, it starts counting at 0.
 
+# Other
+
 ## Notifications
 A notification which can be used for mouseclicks and keyboard events
 
