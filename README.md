@@ -35,6 +35,13 @@ Can only hold Text content since it needs to measure the size before building (w
 Header-Rows and Header-Columns are unselectable.
 Like a true programmer, it starts counting at 0.
 
+## Spoiler
+A Spoiler Widget which hides and unhides content (its child) on click.
+
+## SuperScaffold
+Inititalizes the app with basics like Scrollbars (so that the content can never overflow), background-color-handling, AppBar handling and centering the child relative to the body (and not the screen which is the body plus the AppBar).
+A Must-Have for every Flutter App.
+
 # Other
 
 ## Notifications
